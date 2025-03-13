@@ -12,7 +12,7 @@ const Hero = () => {
     //     </div>
     //     </div>
     // </div>
-    <div>hero</div>
+    <div>hero1</div>
   )
 }
 
